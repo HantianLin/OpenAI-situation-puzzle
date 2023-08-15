@@ -1,0 +1,12 @@
+{
+    "games": [
+        {
+            "scenario": "A man walks into a bar and asks the bartender for a glass of water. The bartender pulls out a gun and points it at the man. The man says, \"Thank you\" and walks out.",
+            "truth": "The man had hiccups and the gun scared them out of him, to which he said, \"Thank you.\""
+        },
+        {
+            "scenario": "A man brushes his teeth, turns out the light, and goes to bed. The next morning he wakes up, looks out the window, and kills himself.",
+            "truth": "The man is a lighthouse keeper. He accidentally turned off the lighthouse beacon. In the morning he sees a shipwreck that he realizes he has caused."
+        }
+    ]
+}
